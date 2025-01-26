@@ -12,12 +12,12 @@ Hey reader! This is a beginner friendly course schedule for learning Java. 🚀
 This course is designed to be completed in 6 weeks. It is okay if you take a bit longer or finish it faster. Everyone learns at their own pace. Resources to refer are also linked with the schedule.
 
 ## Practical learning
-To understand each topic better, try out programs listed in the 'Exercises' folder. This will help you practice the topics you've learned in theory.
+To understand each topic better, try out programs listed in the 'Exercises' page. This will help you practice the topics you've learned in theory.
 
 ## Tips
 It might seem a little daunting at the beginning, but do not give up! There are tons of resources and people to help you in this journey.
 
 ## Next steps
-Once you complete this course, we can put our learning to build a small web app that you can include in your resume too. You can choose one from the list of suggested projects in the 'Exercises' folder.
+Once you complete this course, we can put our learning to build a small web app that you can include in your resume too. You can choose one from the list of suggested projects in the 'Exercises' page.
 
 Happy learning! 🎆
