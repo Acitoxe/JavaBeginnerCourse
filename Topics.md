@@ -31,7 +31,18 @@
 24. States of a thread and communication between threads
 25. Synchronized, atomic, volatile
 
+# Servlet & JSP Topics
+
+1. Servlets & JSP: Overview and Setup
+2. Handling the Client Request: Form Data
+3. Generating the Server Response: HTTP Status Codes
+4. Invoking Java Code with JSP Scripting Elements
+5. Controlling the Structure of Generated Servlets: The JSP page Directive
+6. The Model View Controller (MVC) Architecture: Integrating Servlets and JSP
+
 # References
 
 https://docs.oracle.com/javase/tutorial/java/TOC.html
 https://www.geeksforgeeks.org/introduction-to-java/
+https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html
+https://www.studytonight.com/servlet/introduction-to-web.php
